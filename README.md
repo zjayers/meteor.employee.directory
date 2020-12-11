@@ -1,8 +1,7 @@
 # Meteor Employee Directory
-[![GitHub Release](https://img.shields.io/github/release/zjayers/meteor.employee.directory.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/meteor.employee.directory.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/meteor.employee.directory.svg?style=flat)](https://github.com/zjayers/meteor.employee.directory/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/meteor.employee.directory.svg?style=flat)](https://github.com/zjayers/meteor.employee.directory/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/meteor.employee.directory.svg?maxAge=25000)](https://github.com/zjayers/meteor.employee.directory/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/meteor.employee.directory/blob/master/LICENSEs)
 
 ## Description
 
